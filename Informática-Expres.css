@@ -80,7 +80,7 @@
   border-style: solid;
   text-transform: uppercase;
   background-image: none;
-  margin: 30px auto 0;
+  margin: 30px auto 0 167px;
   padding: 12px 54px 13px 53px;
 }
 
@@ -275,6 +275,7 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 35px;
+    margin-left: 67px;
     padding-top: 13px;
     padding-right: 28px;
     padding-left: 27px;
@@ -471,6 +472,7 @@
 
   .u-section-1 .u-btn-1 {
     margin-top: 9px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-line-2 {
@@ -694,7 +696,7 @@
   }
 
   .u-section-1 .u-btn-1 {
-    margin-left: auto;
+    margin-left: 0;
   }
 
   .u-section-1 .u-line-2 {
