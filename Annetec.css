@@ -26,7 +26,7 @@
 }
 
  .u-section-1-1 {
-  background-image: url("images/Untitled-43.png");
+  background-image: url("images/SITE2.png");
   background-position: 50% 50%;
 }
 
@@ -2498,11 +2498,13 @@
 
 .u-section-3 .u-list-1 {
   grid-template-rows: auto;
+  margin-top: 4px;
+  margin-bottom: 57px;
 }
 
 .u-section-3 .u-repeater-1 {
   grid-template-columns: calc(33.3333% - 11.3333px) calc(33.3333% - 11.3333px) calc(33.3333% - 11.3333px);
-  min-height: 452px;
+  min-height: 453px;
   grid-gap: 17px 17px;
 }
 
